@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fff4e3f-8cd1-43cc-a866-986166b5ccd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/bidriectional/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/bidriectional/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/components/network/models/MoParseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/components/network/models/MoParseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/flappybird/MoAnimatableObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/flappybird/MoAnimatableObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/flappybird/MoBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/flappybird/MoBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/flappybird/MoConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/flappybird/MoConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/flappybird/MoWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/flappybird/MoWall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/GameScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/GameScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/MoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/MoMain.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="22" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1R1XCWAnDlF9DLFkhwLoo93BJBm" />
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MoMain">
+    <configuration name="MoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.MoMain" />
+      <module name="Project-Provision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Project-Provision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Provision" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Provision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="constants" />
+      <option name="MAIN_CLASS_NAME" value="constants.MoHelperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoHelperTest.testChangeRatioNoException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Provision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="constants" />
+      <option name="MAIN_CLASS_NAME" value="constants.MoHelperTest" />
+      <option name="METHOD_NAME" value="testChangeRatioNoException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoNeuralNetworkTest.calculateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Provision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="network.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="network.models" />
+      <option name="MAIN_CLASS_NAME" value="network.models.MoNeuralNetworkTest" />
+      <option name="METHOD_NAME" value="calculateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MoMain" />
+      <item itemvalue="JUnit.MoHelperTest.testChangeRatioNoException" />
+      <item itemvalue="JUnit.MoHelperTest" />
+      <item itemvalue="JUnit.All in Project-Provision" />
+      <item itemvalue="JUnit.MoNeuralNetworkTest.calculateTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MoMain" />
+        <item itemvalue="JUnit.MoNeuralNetworkTest.calculateTest" />
+        <item itemvalue="JUnit.All in Project-Provision" />
+        <item itemvalue="JUnit.MoHelperTest" />
+        <item itemvalue="JUnit.MoHelperTest.testChangeRatioNoException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fff4e3f-8cd1-43cc-a866-986166b5ccd0" name="Default Changelist" comment="" />
+      <created>1568835449042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568835449042</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fixed main folder problems">
+      <created>1568835746913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568835746914</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed main folder problems">
+      <created>1568836986381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568836986381</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed main folder problems">
+      <created>1569022640344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569022640344</updated>
+    </task>
+    <task id="LOCAL-00004" summary="making the backend work for flappy bird">
+      <created>1569286272576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569286272576</updated>
+    </task>
+    <task id="LOCAL-00005" summary="neuroEvolution has been implemented without mutation&#10;but we are crossing over two of the best parents">
+      <created>1569610377088</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569610377088</updated>
+    </task>
+    <task id="LOCAL-00006" summary="neuroEvolution has been implemented without mutation&#10;but we are crossing over two of the best parents">
+      <created>1569654211603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569654211603</updated>
+    </task>
+    <task id="LOCAL-00007" summary="load and save has been implemented">
+      <created>1570233431353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570233431353</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add tests for the neural network">
+      <created>1570478454910</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570478454911</updated>
+    </task>
+    <task id="LOCAL-00009" summary="more Tests!">
+      <created>1570489347303</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570489347303</updated>
+    </task>
+    <task id="LOCAL-00010" summary="and more tests!">
+      <created>1570489921435</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570489921435</updated>
+    </task>
+    <task id="LOCAL-00011" summary="god help plz">
+      <created>1570589394958</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1570589394958</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixed problems with wrong coverage (file destination)">
+      <created>1570598010893</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570598010893</updated>
+    </task>
+    <task id="LOCAL-00013" summary="what's wrong?">
+      <created>1570637846600</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570637846600</updated>
+    </task>
+    <task id="LOCAL-00014" summary="what's wrong? (2)">
+      <created>1570653280050</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570653280050</updated>
+    </task>
+    <task id="LOCAL-00015" summary="what's wrong? (3)">
+      <created>1570662176074</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570662176074</updated>
+    </task>
+    <task id="LOCAL-00016" summary="robustness">
+      <created>1571267542300</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571267542300</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed main folder problems" />
+    <MESSAGE value="making the backend work for flappy bird" />
+    <MESSAGE value="neuroEvolution has been implemented without mutation&#10;but we are crossing over two of the best parents" />
+    <MESSAGE value="load and save has been implemented" />
+    <MESSAGE value="add tests for the neural network" />
+    <MESSAGE value="more Tests!" />
+    <MESSAGE value="and more tests!" />
+    <MESSAGE value="god help plz" />
+    <MESSAGE value="fixed problems with wrong coverage (file destination)" />
+    <MESSAGE value="what's wrong?" />
+    <MESSAGE value="what's wrong? (2)" />
+    <MESSAGE value="what's wrong? (3)" />
+    <MESSAGE value="robustness" />
+    <option name="LAST_COMMIT_MESSAGE" value="robustness" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/network/models/MoNeuronTest.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/ui/MoMain.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoConverterTest.ic" NAME="MoConverterTest Coverage Results" MODIFIED="1570465820859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>constants.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoBirdTest.ic" NAME="MoBirdTest Coverage Results" MODIFIED="1570489304502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>flappyBird.components.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoLayerTest.ic" NAME="MoLayerTest Coverage Results" MODIFIED="1570472968750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>components.network.models.MoLayer</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoMain.ic" NAME="MoMain Coverage Results" MODIFIED="1569885833183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoAnimatableObjectTest.ic" NAME="MoAnimatableObjectTest Coverage Results" MODIFIED="1570589363432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>flappybird.components.MoAnimatableObject</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoNeuralNetworkTest.ic" NAME="MoNeuralNetworkTest Coverage Results" MODIFIED="1570473680793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>components.network.MoNeuralNetwork</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoWallTest.ic" NAME="MoWallTest Coverage Results" MODIFIED="1570489019071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>flappybird.components.MoWall</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoParseDataTest.ic" NAME="MoParseDataTest Coverage Results" MODIFIED="1570478291020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>components.network.models.MoParseData</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoFunctionsTest.ic" NAME="MoFunctionsTest Coverage Results" MODIFIED="1570465805498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>constants.MoFunctions</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$All_in_Project_Provision.exec" NAME="All in Project-Provision Coverage Results" MODIFIED="1570661741530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$All_in_Project_Provision.ic" NAME="All in Project-Provision Coverage Results" MODIFIED="1571267225032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$GameScreenTest.ic" NAME="GameScreenTest Coverage Results" MODIFIED="1570489228474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>flappybird.ui.GameScreen</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoNeuronTest.ic" NAME="MoNeuronTest Coverage Results" MODIFIED="1570474471025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>components.network.models.MoNeuron</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoTrainingDataTest.ic" NAME="MoTrainingDataTest Coverage Results" MODIFIED="1570478381829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>components.network.models.MoTrainingData</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoConstantsTest.ic" NAME="MoConstantsTest Coverage Results" MODIFIED="1570487738281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>flappybird.components.MoConstants</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoObjectTest.ic" NAME="MoObjectTest Coverage Results" MODIFIED="1570589315989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>flappybird.components.MoObject</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NeuralNetwork_Cpsc210_Project$MoButtonTest.ic" NAME="MoButtonTest Coverage Results" MODIFIED="1570487583500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>flappybird.components.MoButton</FILTER>
+    </SUITE>
+  </component>
+</project>
